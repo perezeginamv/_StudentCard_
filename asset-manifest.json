@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/student_card/static/css/main.f580e08e.css",
-    "main.js": "/student_card/static/js/main.eae5e698.js",
-    "static/js/787.131f0537.chunk.js": "/student_card/static/js/787.131f0537.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/student_card/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
-    "static/media/bootstrap-icons.woff2?": "/student_card/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
-    "index.html": "/student_card/index.html",
-    "main.f580e08e.css.map": "/student_card/static/css/main.f580e08e.css.map",
-    "main.eae5e698.js.map": "/student_card/static/js/main.eae5e698.js.map",
-    "787.131f0537.chunk.js.map": "/student_card/static/js/787.131f0537.chunk.js.map"
+    "main.css": "/_StudentCard_/static/css/main.5052d029.css",
+    "main.js": "/_StudentCard_/static/js/main.bcb3fc28.js",
+    "static/js/787.131f0537.chunk.js": "/_StudentCard_/static/js/787.131f0537.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/_StudentCard_/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/_StudentCard_/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/_StudentCard_/index.html",
+    "main.5052d029.css.map": "/_StudentCard_/static/css/main.5052d029.css.map",
+    "main.bcb3fc28.js.map": "/_StudentCard_/static/js/main.bcb3fc28.js.map",
+    "787.131f0537.chunk.js.map": "/_StudentCard_/static/js/787.131f0537.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f580e08e.css",
-    "static/js/main.eae5e698.js"
+    "static/css/main.5052d029.css",
+    "static/js/main.bcb3fc28.js"
   ]
 }
